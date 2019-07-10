@@ -27,7 +27,9 @@ figcaption {
   width: 800px;
   margin: 0 auto;
 }
-#details {
+#details div {
   display: block;
   float: left;
+  width: 25%;
+  background: grey;
 }
